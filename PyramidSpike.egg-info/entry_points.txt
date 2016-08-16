@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = pyramidspike:main
+      [console_scripts]
+      initialize_PyramidSpike_db = pyramidspike.scripts.initializedb:main
+      
